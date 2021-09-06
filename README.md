@@ -1,4 +1,6 @@
-# Frontend Mentor - Order summary card
+# Frontend Mentor - Order summary card 
+Coded By : Ahmed Sameh Ahmed Mohamed 
+Email: ahmed.sameh69900@gmail.com
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
